@@ -10,7 +10,7 @@ This tool streamlines DLC activation for supported expansions, bonus packs, preo
 
 # 🔗 Get the Latest Release
 
-* [📦 View All Releases]()
+* [📦 View All Releases](https://github.com/Lunarmecleaver22/Tekken-8-DLC-Unlocker/releases)
 
 ---
 
